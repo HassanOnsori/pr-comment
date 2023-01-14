@@ -11,6 +11,7 @@ This template includes tests, linting, a validation workflow, publishing, and ve
 If you are new, there's also a simpler introduction.  See the [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
 
 
+
 ## Create an action from this template
 
 Click the `Use this Template` and provide the new repo details for your action
