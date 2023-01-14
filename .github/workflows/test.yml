@@ -1,6 +1,7 @@
 name: "units-test"
 on:
   pull_request:
+    types: [opened, reopened, synchronize]
 
 jobs:
   test:
@@ -13,4 +14,3 @@ jobs:
         repo: ${{ github.event.repository.name }}
         pr_number: ${{ github.event.number }}
         token: ${{ secrets.GITHUB_TOKEN }}
-
