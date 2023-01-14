@@ -16,7 +16,6 @@ If you are new, there's also a simpler introduction.  See the [Hello World JavaS
 
 Click the `Use this Template` and provide the new repo details for your action
 
-
 ## Code in Main
 
 Install the dependencies
