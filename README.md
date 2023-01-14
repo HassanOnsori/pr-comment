@@ -10,9 +10,11 @@ This template includes tests, linting, a validation workflow, publishing, and ve
 
 If you are new, there's also a simpler introduction.  See the [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
 
+
 ## Create an action from this template
 
 Click the `Use this Template` and provide the new repo details for your action
+
 
 ## Code in Main
 
@@ -41,6 +43,7 @@ The action.yml defines the inputs and output for your action.
 Update the action.yml with your name, description, inputs and outputs for your action.
 
 See the [documentation](https://help.github.com/en/articles/metadata-syntax-for-github-actions)
+
 
 ## Change the Code
 
