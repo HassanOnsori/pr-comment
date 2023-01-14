@@ -15,7 +15,6 @@ If you are new, there's also a simpler introduction.  See the [Hello World JavaS
 
 Click the `Use this Template` and provide the new repo details for your action
 
-
 ## Code in Main
 
 Install the dependencies
@@ -99,7 +98,6 @@ git commit -a -m "v1 release"
 ```bash
 git push origin v1
 ```
-
 
 Note: We recommend using the `--license` option for ncc, which will create a license file for all of the production node modules used in your project.
 
